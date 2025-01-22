@@ -14,7 +14,7 @@ enose.ino: Upload it to UNIHIKER K10 through Arduino IDE, and collect data from 
 DFRobot_ADS1115: Arduino IDE library
 
 
-enose.step: Structural parts of container and probe
+.step: Structural parts of container and probe
 
 
 photos: 3D screenshot of the container and probe structure
