@@ -18,3 +18,5 @@ DFRobot_ADS1115: Arduino IDE library
 
 
 photos: 3D screenshot of the container and probe structure
+
+![image](https://github.com/user-attachments/assets/f34138ef-b8be-40d1-a5a9-8a7a06927b67)
